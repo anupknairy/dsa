@@ -1,5 +1,8 @@
 package com.anup.github.dsa;
 
+/**
+Count set bits in an integer
+ **/
 public class CountSetBits {
 
     public static void main(String[] args) {
