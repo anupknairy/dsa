@@ -1,5 +1,9 @@
 package com.anup.github.dsa;
 
+/**
+ * Program for Binary To Decimal Conversion
+ */
+
 public class BinaryToDecimalConversion {
 
     public static void main(String[] args) {
