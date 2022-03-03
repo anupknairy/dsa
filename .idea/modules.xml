@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/adobe/adobe.iml" filepath="$PROJECT_DIR$/adobe/adobe.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/dsa.iml" filepath="$PROJECT_DIR$/.idea/dsa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sorting/sorting.iml" filepath="$PROJECT_DIR$/sorting/sorting.iml" />
     </modules>
   </component>
 </project>
